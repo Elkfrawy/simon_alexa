@@ -1,0 +1,26 @@
+{
+  "name": "simon",
+  "version": "1.0.0",
+  "description": "Ask Simon to give you any type of quotes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Elkfrawy/simon_alexa.git"
+  },
+  "keywords": [
+    "alexa;quotes"
+  ],
+  "author": "Ayman Elkfrawy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elkfrawy/simon_alexa/issues"
+  },
+  "homepage": "https://github.com/Elkfrawy/simon_alexa#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
